@@ -17,7 +17,7 @@
 
 ## 📷 画面イメージ
 
-[スクリーンショット 2025-05-04 232418](https://github.com/user-attachments/assets/ec3b2831-1c58-43fb-b371-88bcbe35ab51)
+![スクリーンショット 2025-05-04 232418](https://github.com/user-attachments/assets/ec3b2831-1c58-43fb-b371-88bcbe35ab51)
 ![スクリーンショット 2025-05-04 232515](https://github.com/user-attachments/assets/e47bb579-2c15-498a-ab7d-a43ce4f3dec9)
 ![スクリーンショット 2025-05-04 232555](https://github.com/user-attachments/assets/0223d0a9-ee33-4cc7-b764-6cffe18d2877)
 ![スクリーンショット 2025-05-04 232611](https://github.com/user-attachments/assets/ef8396d6-3f1c-4e07-a15d-64367db72939)
